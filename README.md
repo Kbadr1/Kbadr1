@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 
-- 🎓 &nbsp; Studying Computer Science at Suez Canal University.
+- 🎓 &nbsp; Bachelor's degree in computer science.
 
 - 🌱 &nbsp; Learning about Web Development.
 
@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | ReactJS | Redux | SASS | Material-UI.
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | ReactJS | Gatsby | Redux | SASS | Material-UI | Bootstrap .
 
 
 <a href="https://github.com/Kbadr1">
