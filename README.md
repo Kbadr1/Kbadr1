@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | ReactJS | Redux | Next.js | SASS | Material-UI | Bootstrap | Tailwindcss .
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | ReactJS | React Native |Redux | Next.js | SASS | Material-UI | Bootstrap | Tailwindcss .
 
 
 <a href="https://github.com/Kbadr1">
