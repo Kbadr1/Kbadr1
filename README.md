@@ -22,7 +22,7 @@
 </a>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khaledbadr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled%20Badr-blue?style=flat-square&logo=linkedin"></a>
