@@ -17,9 +17,9 @@
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | React Native | Redux | Next.js | SASS | Material-UI | Bootstrap | Tailwindcss .
 
 
-<a href="https://github.com/Kbadr1">
+<!--  <a href="https://github.com/Kbadr1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbadr1&theme=highcontrast&layout=compact" />
-</a>
+</a> -->
 
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbadr1&layout=compact&hide=scss&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
