@@ -29,6 +29,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/khaledbadr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled%20Badr-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kbadr1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled%20Badr-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:Kbadr.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Kbadr.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
