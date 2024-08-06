@@ -9,7 +9,7 @@
 
 - 🌱 &nbsp; Continuously Learning.
 
-- ✍️ &nbsp; I focus on Front-End development with JavaScript, and I'm a React.js nerd.
+- ✍️ &nbsp; I focus on Front-End development with JavaScript, and I'm a React.js nerd. 
 
 
 <h3>🛠 Tech Stack</h3>
