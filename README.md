@@ -17,9 +17,6 @@
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Next.js | React Native | Zustand | Redux | Tailwindcss | SASS | Material-UI | Bootstrap.
 
 
-<a href="https://github.com/Kbadr1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbadr1&theme=highcontrast&layout=compact" />
-</a> 
 
 
 
